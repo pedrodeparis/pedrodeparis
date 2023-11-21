@@ -2,7 +2,7 @@
 
 - I am a former lawyer with a background in prestigious corporate environments, currently transitioning to data science.
 
-- I speak 4 languages! (English, Portuguese, French, and Spanish).em
+- I speak 4 languages! (English, Portuguese, French, and Spanish).
 
 - I've learned Python, SQL, Power BI and Excel! 
 
