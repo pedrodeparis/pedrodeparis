@@ -1,10 +1,8 @@
 - 👋 Hi, I’m @pedrodeparis
 
-- I am a former lawyer with a background in prestigious corporate environments, currently transitioning to data science.
+- I am a former lawyer with a background in prestigious corporate environments, currently working in data analysis and data science projects.
 
-- I speak 4 languages! (English, Portuguese, French, and Spanish).
-
-- I've learned Python, SQL, Power BI and Excel! 
+- I've learned Python, SQL, Docker, MLFLOW, Apache Hadoop,Power BI, Tableau and Excel! 
 
 - Currently finishing my Data Science course at DNC.
 
@@ -13,3 +11,5 @@
 - I would love to connect, share ideas and learn more about data science, AI and new tools.
 
 - Always available for a coffee! 
+
+= Feel free to explore my latest projects, there are a few that in my opinion are really cool! 
