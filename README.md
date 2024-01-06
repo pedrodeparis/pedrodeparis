@@ -12,4 +12,4 @@
 
 - Always available for a coffee! 
 
-= Feel free to explore my latest projects, there are a few that in my opinion are really cool! 
+- Feel free to explore my latest projects, there are a few that in my opinion are really cool! 
