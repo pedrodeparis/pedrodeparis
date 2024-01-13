@@ -2,7 +2,7 @@
 
 - I am a former lawyer with a background in prestigious corporate environments, currently working in data analysis and data science projects.
 
-- I've learned Python, SQL, Docker, MLFLOW, Apache Hadoop,Power BI, Tableau and Excel! 
+- I've learned Python, SQL,Power BI, Tableau, Excel, SnowFlake, Apache Hadoop 
 
 - Currently finishing my Data Science course at DNC.
 
